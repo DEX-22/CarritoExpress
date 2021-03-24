@@ -1,0 +1,14 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "Carrito de compras de productos apple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrique Saenz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
